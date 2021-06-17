@@ -1,4 +1,5 @@
-size(200,200);
+// No image is uploaded for this, only deal with the pixels of the canvas
+size(600,600);
 
 // Before we deal with pixels
 loadPixels();
