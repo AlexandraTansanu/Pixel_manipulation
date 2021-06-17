@@ -1,5 +1,5 @@
 # Pixel manipulation
-Part of an exercise in the first academic year, pixel manipulation demonstrates how Photoshop algorithms work. The program is entirely written in Java. 
+Part a first academic year exercise, pixel manipulation demonstrates how Photoshop algorithms work. The program is entirely written in Java. 
 
 **Difficulty level:** Beginner. 
 
