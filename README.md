@@ -10,13 +10,14 @@ The pixel and image manipulation exercises demostrate how Photoshop or any other
 > This exercise is written and animated using the Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the [Processing Documentation](https://processing.org/reference/)
 
 ## Greyscale.pde
-![Greyscale.pde](https://drive.google.com/uc?export=view&id=12Ixix5JMkZVC8CXH4ICK9LkI-NLFxjzz)
+![greyscale](https://user-images.githubusercontent.com/60512873/122466524-48d1e700-cf6e-11eb-9e2b-1c2400ed936d.png)
 
 ## GreyscaleDistance.pde
-![GreyscaleDistance.pde](https://drive.google.com/uc?export=view&id=1fZWhzjl2Pxu8iZt8chyWfvzqt9XZgJFi)
+![greyscaleDistance](https://user-images.githubusercontent.com/60512873/122466557-51c2b880-cf6e-11eb-82bb-93bdf7eac24a.png)
 
 ## GreyscaleReverseMirror.pde
-![GreyscaleReverseMirror.pde](https://drive.google.com/uc?export=view&id=1BlQ9njVHdceRaAlYQHskadSN2dwID64D)
+![greyscaleReverseMirror](https://user-images.githubusercontent.com/60512873/122466584-58e9c680-cf6e-11eb-9ddd-1abdede9fd74.png)
+
 
 
 
